@@ -8,7 +8,7 @@ public class Main {
         double e = calculator2.multiply(3, 5);
         Calculator calculator3 = new Calculator();
         double f = calculator3.divide(6, 3);
-        System.out.println(c+"\n"+d+"\n"+e+"\n"+f);
+        System.out.println(c + "\n" + d + "\n" + e + "\n" + f);
         }
 
 }
